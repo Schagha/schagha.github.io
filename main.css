@@ -521,20 +521,121 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
     z-index: 4 !important;
 }
 
+
+/*image positions///////////////////////////////////////////////////////////////////////////////////////*/
+
 .position-back {
     width: 70%;
     margin: -6% 0 -40%;
 }
 
-.position-back-amaj {
+
+/*ProjectManagement/////////////////////////////////////////////////////////////////////////////////////*/
+/*images ProjectManagement: 1st step - Key Activities //////////////////////////////////////////////////*/
+.position-top-projectManagement1 {
+    width: 94%;
+    margin: -25% 8% 0%;
+}
+
+.position-front-projectManagement1 {
+    width: 80%;
+    margin: 15% 22% 20%;
+}
+
+.position-back-projectManagement1 {
+    width: 100%;
+    margin: -6% -19px -23%;
+}
+
+/*images ProjectManagement: 2nd step My Responsibilities //////////////////////////////////////////////////*/
+.position-top-projectManagement2 {
+    width: 70%;
+    margin: 0% 24% -24%;
+}
+
+.position-back-projectManagement2 {
+    width: 96%;
+    margin: 0 0% 0%;
+}
+
+/*GIS///////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*images GIS: 1st Amaj /////////////////////////////////////////////////////////////////////////////////*/
+.position-back-GIS-amaj-1 {
     width: 70%;
     margin: 0% 14px -66%;
 }
 
+.position-front-GIS-amaj-2 {
+    width: 80%;
+    margin: 5% 17% 0%;
+}
+
+/*images GIS: 2nd Scilands /////////////////////////////////////////////////////////////////////////////////*/
+.position-back-scilands-1 {
+    width: 70%;
+    margin: 0% 24% -24%;
+}
+
+.position-back-scilands-2 {
+    width: 96%;
+    margin: 0 0% 0%;
+}
+
+/*images GIS: 3rd Geries ///////////////////////////////////////////////////////////////////////////////*/
 .position-back-geries {
     width: 94%;
     margin: 0% 16px 0%;
 }
+
+/*images GIS: 4th Madagaskar ///////////////////////////////////////////////////////////////////////////*/
+.position-back-Madagaskar-1 {
+    width: 70%;
+    margin: 0% 24% -24%;
+}
+.position-back-Madagaskar-2 {
+    width: 96%;
+    margin: 0 0% 0%;
+}
+
+/*Web Development///////////////////////////////////////////////////////////////////////////////////////*/
+/*images Web Development: Van Finder ///////////////////////////////////////////////////////////////////*/
+.position-back-VanFinder-1 {
+    width: 70%;
+    margin: 0% 0 -14%;
+}
+
+.position-back-VanFinder-2{
+    width: 80%;
+    margin: 0% 12% 0%;
+}
+
+/*images Web Development: Cryptocurrency Dashboard  ///////////////////////////////////////////////////*/
+.position-back-CryptocurrencyDashboard-1 {
+    width: 70%;
+    margin: 0% 4% -41%;
+}
+
+.position-back-CryptocurrencyDashboard-2 {
+    width: 76%;
+    margin: 26% 25% 25%;
+}
+
+.position-top-CryptocurrencyDashboard-3 {
+    width: 80%;
+    margin: -44% 7% 0%;
+}
+
+/*images Web Development: E commerce store  ///////////////////////////////////////////////////////////*/
+.position-back-ECommerce-1 {
+    width: 70%;
+    margin: 0% 24% -24%;
+}
+
+.position-back-ECommerce-2 {
+    width: 96%;
+    margin: 0 0% 0%;
+}
+
 
 .position-back-amg {
     width: 70%;
@@ -558,26 +659,9 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
     margin: 0% 2px -34%;
 }
 
-.position-complex-middle-scilands {
-    width: 70%;
-    margin: 0% 24% -24%;
-}
-
-.position-top-projectManagement {
-    width: 94%;
-    margin: -25% 8% 0%;
-}
 
 
-.position-front-projectManagement {
-    width: 80%;
-    margin: 15% 22% 20%;
-}
 
-.position-back-projectManagement {
-    width: 100%;
-    margin: -6% -19px -23%;
-}
 
 
 .position-top-rantis{
