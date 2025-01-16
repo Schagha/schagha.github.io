@@ -449,7 +449,6 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 
 .fluid-deepDive {
     padding-right: 1rem !important;
-    padding-left: 1rem !important;
 }
 
 
@@ -527,9 +526,19 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
     margin: -6% 0 -40%;
 }
 
+.position-back-amaj {
+    width: 70%;
+    margin: 0% 14px -66%;
+}
+
+.position-back-geries {
+    width: 94%;
+    margin: 0% 16px 0%;
+}
+
 .position-back-amg {
     width: 70%;
-    margin: -6% 0 -14%;
+    margin: 0% 0 -14%;
 }
 .position-back-frame-uni {
     width: 83%;
@@ -542,7 +551,7 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 }
 .position-front-third{
     width: 80%;
-    margin: 3% 12% 0%;
+    margin: 0% 12% 0%;
 }
 .position-front-poplar{
     width: 70%;
@@ -551,7 +560,7 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 
 .position-complex-middle-scilands {
     width: 70%;
-    margin: 3% 24% -24%;
+    margin: 0% 24% -24%;
 }
 
 .position-top-projectManagement {
@@ -577,7 +586,7 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 }
 .position-top-fourth-neka {
     width: 80%;
-    margin: -40% 8% 4%;
+    margin: -30% 8% 0%;
 }
 
 .position-top-amg {
@@ -595,17 +604,22 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 
 .position-front {
     width: 80%;
-    margin: 5% 17% 20%;
+    margin: 5% 17% 0%;
 }
 
 .position-front-fourth {
     width: 76%;
     margin: 26% 25% 25%;
 }
+.position-front-fourt-neka {
+    width: 76%;
+    margin: 15% 25% 0%;
+}
+
 
 .position-top-fourth {
     width: 80%;
-    margin: -48% 7% 4%;
+    margin: -44% 7% 0%;
 }
 .position-top {
     width: 80%;
@@ -628,7 +642,12 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 }
 .position-back-frame {
     width: 70%;
-    margin: 0% 4% -34%;
+    margin: 0% 4% -41%;
+}
+
+.position-back-frame-neka {
+    width: 70%;
+    margin: 0% 4% -37%;
 }
 
 .square-animation {
