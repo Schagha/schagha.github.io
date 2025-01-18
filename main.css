@@ -554,7 +554,7 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 }
 
 .position-back-projectManagement2 {
-    width: 96%;
+    width: 81%;
     margin: 0 0% 0%;
 }
 
@@ -590,7 +590,7 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 /*images GIS: 4th Madagaskar ///////////////////////////////////////////////////////////////////////////*/
 .position-back-Madagaskar-1 {
     width: 70%;
-    margin: 0% 24% -24%;
+    margin: 0% 32% -24%;
 }
 .position-back-Madagaskar-2 {
     width: 96%;
@@ -602,6 +602,8 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 .position-back-VanFinder-1 {
     width: 70%;
     margin: 0% 0 -14%;
+    z-index: 2 !important;
+
 }
 
 .position-back-VanFinder-2{
@@ -636,6 +638,7 @@ background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
     margin: 0 0% 0%;
 }
 
+/*images Web Development: E commerce store  ///////////////////////////////////////////////////////////*/
 
 .position-back-amg {
     width: 70%;
